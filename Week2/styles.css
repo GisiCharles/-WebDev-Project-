@@ -21,18 +21,18 @@ h1 {
     margin-bottom: 1rem;
     text-align: center;
 }
-.input-group {
+.input {
     display: flex;
     margin-bottom: 1rem;
 }
-.input-group input {
+.input input {
     border: 1px solid #d1d5db;
     border-radius: 0.25rem;
     padding: 0.5rem;
     flex: 1;
     margin-right: 0.5rem;
 }
-.input-group button {
+.input button {
     background-color: #10b981;
     color: #ffffff;
     padding: 0.5rem 1rem;
